@@ -1,4 +1,9 @@
 hello world!
 hello world!
 hello world!
+<<<<<<< HEAD
 lalalala
+=======
+hello world!
+hello world!
+>>>>>>> branch1
